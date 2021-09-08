@@ -92,8 +92,8 @@ textarea {
   left: 50%;
   transform: translate(-50%, -50%);
 
-  min-height: 528px;
-  min-width: 581px;
+  height: 581px;
+  width: 528px;
   padding: 40px;
 
   background-color: #ffffff;
