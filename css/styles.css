@@ -133,7 +133,7 @@ textarea {
   line-height: 1.15;
   text-align: center;
   letter-spacing: 0.03em;
-  margin-top: 12px;
+  margin-bottom: 12px;
 
   color: var(--title-text-color);
 }
@@ -143,10 +143,6 @@ textarea {
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
-}
-
-.form-field:not(:last-child) {
-  margin-bottom: 20px;
 }
 
 .form-field-label {
@@ -193,6 +189,7 @@ textarea {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 20px;
   margin-bottom: 30px;
 }
 
